@@ -1,1 +1,3 @@
-# composition-exercise-java
+# Composition Exercise
+
+In this exercise, we read a worker's data and his contracts information, and then we calculate the salary in a specific month/year. The main objective of this exercise is to reinforce some object oriented programming concepts in a practical case.
